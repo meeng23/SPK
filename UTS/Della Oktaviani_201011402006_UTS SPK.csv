@@ -1,0 +1,38 @@
+,,,,,
+,,,,,
+Nama Tas,Harga,Warna ,Ukuran ,Jenis ,Kualitas
+Gucci,"5,000,000",Hitam,Besar,Tas Ransel,Baik
+LV,"6,000,000",Coklat,Sedang,Tas Ransel,Sangat baik
+Dior,"4,000,000",Pink,Besar,Tas Totebag,Sangat baik
+Diesel,"3,000,000",Abu-abu,Besar,Tas Ransel,Baik
+Consina,"2,000,000",Coklat,Kecil,Tas Totebag ,Baik
+Chanel,"7,000,000",Biru,Sedang,Tas Ransel,Sangat baik
+Zara ,"3,000,000",Cream,Sedang,Tas Jinjing ,Baik
+Parada,"5,000,000",Hijau Tosca,Kecil,Tas Totebag ,Sangat baik
+Fendi,"3,000,000",Ungu,Besar,Tas Jinjing ,Baik
+Hermes,"6,000,000",Merah,Kecil,Tas  Totebag ,Baik
+,,,,,
+,,,,,
+C1.Harga,,,C4. Jenis,,
+Harga,Nilai,,C4. Jenis,Nilai,
+Mahal,1,,Jinjing,1,
+Sedang,2,,Totebag,2,
+Murah,3,,Ransel,3,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+C2. Warna,,,C5. Kualitas,,
+Warna,Nilai,,C5. Kualitas,Nilai,
+Gelap,1,,Baik,1,
+Sedang,2,,Sangat baik,2,
+Terang,3,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+C3. Ukuran,,,,,
+Ukuran,Nilai,,,,
+Kecil,1,,,,
+Sedang,2,,,,
+Besar,3,,,,
